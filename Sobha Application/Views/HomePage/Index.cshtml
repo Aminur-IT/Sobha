@@ -1,0 +1,742 @@
+﻿@using Newtonsoft.Json.Linq;
+@model Sobha_Application.Models.OrgSpotlightListView;
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+<link href="~/css/landing.css" rel="stylesheet" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<style>
+    .sub_block6 a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+    .block2_right_inner_container a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+    
+    .tooltip {
+        position: relative;
+        display: inline-block;
+        /* border-bottom: 1px dotted black; */
+    }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 120px;
+            background-color: #F8E296;
+            color: #282828;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            font-size: 12px;
+            /* Position the tooltip */
+            position:absolute;
+            z-index: 1;
+            
+            margin-left: -1px;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+        }
+
+    .tooltiptext-bottom {
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, -110%);
+    }
+    .asideothertitle {
+        font-size: large;
+        font-weight: bold;
+        color: white;
+        margin-left: 38px;
+        text-underline-offset: 10px;
+        line-height: 30px;
+        cursor: pointer;
+    }
+
+    .asidebox a {
+        text-decoration: none;
+    }
+
+    .asidebox h2 {
+        border-bottom: 1px solid #CCC;
+        padding-bottom: 12px;
+        width: 170px;
+    }
+
+    /*     .slideshow-container {
+                                                            width: 69%;
+                                                            position: relative;
+                                                            margin-right: auto;
+                                                        } */
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        padding: 16px;
+        margin-top: -22px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
+
+        .prev:hover, .next:hover {
+            background-color: rgba(0,0,0,0.8);
+        }
+
+    .text {
+        color: #f2f2f2;
+        font-size: 26px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: left;
+    }
+
+    .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+    }
+
+    .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
+
+        .active, .dot:hover {
+            background-color: #717171;
+        }
+
+    .fade {
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+
+    .block2_img_trdiv a {
+        text-decoration: none !important;
+    }
+
+</style>
+<section>
+    <div class="mob_menubar">
+        <img id="mob_hamberger_icon" style="width:30px" src="~/images/landing_page/menuicon_white.png" />
+        <div id="mob_menubar_item" class="remove">
+            <i id="mob_menubar_close" style="font-size:28px" class="bi bi-x-square"></i><br /><br />
+            <a href="/HomePage">
+                <label>Home</label><br /><br />
+            </a>
+            <a href="/SpotLight">
+                <label>Spot Light</label>
+            </a> <br /><br />
+            <a href="/OrgUpdate">
+                <label> Org Update</label><br /><br />
+            </a>
+            <a href="/ProjectShowCase">
+                <label>Project Showcase</label><br /><br />
+            </a>
+            <a href="/YourSobha">
+                <label>Your Sobha</label><br /><br />
+            </a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="iconbox">
+            <div class="tooltip">
+                <img class="home" id="hambergericon" src="Navigation Icons/Hamburger Menu.png" title="Expand Or Collapse">
+                @*  <span class="tooltiptext">Please Click To Expand Or Collapse</span> *@
+         
+            <img class="app" src="./Navigation Icons/Home Button.png" title="Home">
+            <a href="/SpotLight">
+                <img class="profile" src="./Navigation Icons/Spotlight.png" title="SpotLight">
+         
+            </a>
+            <a href="/YourSobha">
+                <img class="brief" src="./Navigation Icons/Your Sobha.png" title="Your Sobha">
+            </a>
+            <a href="/OrgUpdate">
+                <img class="brief"  src="Navigation Icons/Org Update.png" title="Organization Updates">
+            </a>
+ 
+                <a asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignOut" >
+                    <img class="brief"  src="Navigation Icons/Logout.png" alt="Sign Out" title="Logout" >
+                </a>
+            
+        </div>
+        </div>
+    </div>
+    <div class="container remove" id="about">
+        <div class="asidebox">
+            <i class="bi bi-caret-right" style="font-size: 20px;margin-top: 198px;position: absolute;
+          margin-left: 10px;color: white;"></i>
+            <h2 class="asidetitle">Home</h2>
+            <a href="/SpotLight"> <h2 class="asideothertitle">Spot Light</h2></a>
+            <a href="/OrgUpdate"> <h2 class="asideothertitle">Org Update</h2></a>
+            <a href="/ProjectShowCase">  <h2 class="asideothertitle">Project Showcase</h2></a>
+            <a href="/YourSobha">  <h2 class="asideothertitle">Your Sobha</h2></a>
+        </div>
+    </div>
+    <div class="maniRight_wrapper">
+        <div class="container">
+            <div class="profilebox">
+                <img class="logo" src="~/images/landing_page/sobha_logo1.svg">
+                <div class="searchbox">
+                    <input type="text" placeholder="Search...." />
+                    <i class="bi bi-search" style="position: absolute;margin-top: 2px;margin-left: 10px;"></i>
+                </div>
+                <br />
+                <label class="textuser">Hello, @Model.Username</label>
+                <br />
+                <label class="textdmy">@DateTime.Now.ToString("dd MMMM, yyyy")  |  @DateTime.Now.DayOfWeek</label>
+
+                <div class="announcecontainer">
+                   @* <div class="announcebox">
+                        <img class="voice" src="./Navigation Icons/Picture11.png">
+                    </div>*@
+                    <div class="trainingvideo">
+                        <a href="https://www.youtube.com/channel/UCuts0fQkW6yqXE_Yr5JFepg" target="_blank" class="scroll">
+                            <div class="video_btn" style="background-color: #ffff00;  font-size: 15px;">ESS Training Video</div>
+                        </a>
+                     
+                    </div>
+                    @* <img src="~/images/icon/avatar-icon.png" /*@
+
+                    <div class="textdownload">
+                        <a href="https://customers.sobha.com/images/TaskRecorder.zip" target="_blank" class="scroll">
+                            <div class="video_btn" style="color:white" >Download Task Recorder</div>
+                          </a>
+                          </div>
+
+         
+                    @* <img class="notify" src="Navigation Icons/Picture10.png">
+                    <img class="mail" src="Navigation Icons/Picture9.png"> /*@
+
+                    
+                    <label class="textinout">Punch in : @Model.PunchIn | Punch out : @Model.PunchOut</label>
+                    @{
+                        if (String.IsNullOrEmpty(Model.UserPhoto))
+                        {
+                            <img class="avatar" src="~/images/icon/avatar-icon.png" />
+                        }
+                        else
+                        {
+                            <img class="avatar" src="@(Model.UserPhoto)">
+                        }
+                    }
+                    <label class="textname">@Model.Username</label>  
+                    <label class="textdesg">@Model.UserJobTitle</label>
+                </div>
+            </div>
+        </div>
+        <div class="block2">
+            <video autoplay muted loop>
+                <source src="~/video/yoursobha%20hero%20visual.mp4" type="video/mp4">
+                <!-- <source src="https://www.sobha.com/wp-content/uploads/2021/03/SOBHA-Galera-HomePage_1.mp4?_=1" type="video/mp4"> -->
+            </video>
+            <div class="block2_img_trdiv">
+                <div>
+                    <!-- <label id="block2_img_trdiv_title">Title goes here</label><br/> -->
+                    <!-- <label>Title goes here</label> -->
+                </div>
+                <!-- <div class="block2_btn">Button Sample</div> -->
+            </div>
+
+        </div>
+
+        <div class="block2-5 ">
+            <div class="slideshow-container">
+                @foreach (var item in Model.SpotLightsLists)
+                {
+                    if (item.value.Count > 0)
+                    {
+                        var Topthreespotlight = item.value.OrderByDescending(a => a.createdDateTime).Take(3);
+
+                        foreach (var itemval in Topthreespotlight)
+                        {
+                            <div class="mySlides fade">
+                                @if (itemval.fields.ImageBase64 != null)
+                                {
+                                    <img src="@itemval.fields.ImageBase64" style="width:100%">
+                                }
+                                else if (itemval.fields.Image1Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image1Base64" style="width:100%">
+                                }
+                                else if (itemval.fields.Image2Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image2Base64" style="width:100%">
+                                }
+                                else if (itemval.fields.Image3Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image3Base64" style="width:100%">
+                                }
+                                else if (itemval.fields.Image4Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image4Base64" style="width:100%">
+                                }
+
+                                <div class="block2_img_trdiv">
+                                    <div>
+                                        <label id="block2_img_trdiv_title">@itemval.fields.Title</label><br>
+
+                                    </div>
+                                    <a href="/SpotLight#@(itemval.id)" target="_blank" class="scroll">
+                                        <div class="block2_btn">Know More</div>
+                                    </a>
+
+                                </div>
+                            </div>
+
+
+                        }
+                    }
+
+
+                }
+
+                <a class="prev" onclick="plusSlides(-1)">❮</a>
+                <a class="next" onclick="plusSlides(1)">❯</a>
+
+            </div>
+            <br>
+
+
+            <div class="block2_right_container orgupdatewebview">
+                <div class="block2_right">
+                    <div class="block2_right_icon"></div>
+                    <text>Organization updates</text>
+                </div>
+                @foreach (var item in Model.OrgUpdateLists)
+                {
+                    if (item.value.Count > 0)
+                    {
+                        var Topthreeorgupdate = item.value.OrderByDescending(a => a.createdDateTime).Take(3);
+                        foreach (var itemval in Topthreeorgupdate)
+                        {
+                            <div class="block2_right_inner_container">
+                                @if (itemval.fields.ImageBase64 != null)
+                                {
+                                    <img src="@itemval.fields.ImageBase64" class="block2_org_img">
+                                }
+                                else if (itemval.fields.Image1Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image1Base64" class="block2_org_img">
+                                }
+                                else if (itemval.fields.Image2Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image2Base64" class="block2_org_img">
+                                }
+                                else if (itemval.fields.Image3Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image3Base64" class="block2_org_img">
+                                }
+                                else if (itemval.fields.Image4Base64 != null)
+                                {
+                                    <img src="@itemval.fields.Image4Base64" class="block2_org_img">
+                                }
+                                <div>
+                                    <a href="/OrgUpdate#@(itemval.id)" target="_blank" class="scroll">
+                                        <h3>@itemval.fields.Title</h3>
+                                    </a>
+
+                                    @*  <h5>@itemval.fields.Body </h5>
+                        <h4>Sep 05, 2022</h4> *@
+                                </div>
+                            </div>
+                        }
+                    }
+
+                }
+
+            </div>
+        </div>
+
+        <div class="orgupdatemobile">
+            <div class="block2_right">
+                <div class="block2_right_icon"></div>
+                <text>Organization updates</text>
+            </div>
+            @foreach (var item in Model.OrgUpdateLists)
+            {
+                if (item.value.Count > 0)
+                {
+                    var Topthreeorgupdate = item.value.OrderByDescending(a => a.createdDateTime).Take(3);
+
+                    foreach (var itemval in Topthreeorgupdate)
+                    {
+                        <div class="block2_right_inner_container" style="width:100% !important">
+
+                            @if (itemval.fields.ImageBase64 != null)
+                            {
+                                <img src="@itemval.fields.ImageBase64" class="block2_org_img">
+                            }
+                            else if (itemval.fields.Image1Base64 != null)
+                            {
+                                <img src="@itemval.fields.Image1Base64" class="block2_org_img">
+                            }
+                            else if (itemval.fields.Image2Base64 != null)
+                            {
+                                <img src="@itemval.fields.Image2Base64" class="block2_org_img">
+                            }
+                            else if (itemval.fields.Image3Base64 != null)
+                            {
+                                <img src="@itemval.fields.Image3Base64" class="block2_org_img">
+                            }
+                            else if (itemval.fields.Image4Base64 != null)
+                            {
+                                <img src="@itemval.fields.Image4Base64" class="block2_org_img">
+                            }
+
+                            <div>
+                                <h3>@itemval.fields.Title</h3>
+                                @*  <h5>@itemval.fields.Body</h5>
+                    <h4>Sep 05, 2022</h4> *@
+                            </div>
+                        </div>
+                    }
+
+                }
+
+
+            }
+
+        </div>
+        @*   <div class="block3">
+        <div class="block3_first">
+        <div class="block3_title">
+        <label>Your Profile</label>
+        <div>
+        <!-- <i class="bi bi-caret-up"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture6.png" alt="img" />
+        </div>
+        </div>
+        <div class="block3_desc">
+        <h4>Personal details</h4>
+        <h4>Emergency contact detail</h4>
+        <h4>Your family</h4>
+        <h4>Medical records</h4>
+        </div>
+        <hr />
+        <div class="block3_row">
+        <label>Your Profile</label>
+        <div>
+        <!-- <i class="bi bi-caret-down-fill"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture7.png" alt="img" />
+        </div>
+        </div>
+        <hr />
+        <div class="block3_row">
+        <label>Career management</label>
+        <div>
+        <!-- <i class="bi bi-caret-down-fill"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture7.png" alt="img" />
+        </div>
+        </div>
+        </div>
+
+        <div class="block3_first">
+        <div class="block3_title">
+        <label>Your Documentation</label>
+        <div>
+        <!-- <i class="bi bi-caret-up"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture6.png" alt="img" />
+        </div>
+        </div>
+        <div class="block3_desc block3_row_adjust">
+        <h4>Pay slip</h4>
+        <h4>Increment / promotion letter</h4>
+
+        </div>
+        <hr />
+        <div class="block3_row ">
+        <label>Your Profile</label>
+        <div>
+        <!-- <i class="bi bi-caret-down-fill"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture7.png" alt="img" />
+        </div>
+        </div>
+        <hr />
+        <div class="block3_row ">
+        <label>Career management</label>
+        <div>
+        <!-- <i class="bi bi-caret-down-fill"></i> -->
+        <img style="width: 24px;" src="./Navigation Icons/Picture7.png" alt="img" />
+        </div>
+        </div>
+        </div>
+        </div>*@
+
+        <div class="sub_block4">
+            <div class="sub_block6">
+                <div class="sb6_1st">
+                    <div class="sb6_box"></div>
+                    <label>Quick Links</label>
+                </div>
+                <div class="sb6_2nd">
+                    <a href="@Model.EmoloyeeSelfService">
+                        <div class="sb6_2nd_item ">
+                            <img src="~/images/icon/quicklink/ess.png" />
+                            <label class="quickcolourclass">Employee Self Service</label>
+                        </div>
+                    </a>
+                    <a href="@Model.WorldClient">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/world client.png" />
+                            <label class="quickcolourclass">WorldClient</label>
+                        </div>
+                    </a>
+                    <a href="@Model.AdministrationHelpDesk">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/administration help desk.png" />
+                            <label class="quickcolourclass">Administration Help Desk</label>
+                        </div>
+                    </a>
+                </div>
+                <div class="sb6_2nd">
+                    <a href="@Model.AuditManagementSystem">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/audit management system.png" />
+                            <label class="quickcolourclass">Audit Management System</label>
+                        </div>
+                    </a>
+
+                    <a href="@Model.ClubHouseApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/club house application.png" />
+                            <label class="quickcolourclass">Club House Application</label>
+                        </div>
+                    </a>
+                    <a href="@Model.CustomerCareCellApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/customer care cell application.png" />
+                            <label class="quickcolourclass">Customer Care Cell Application</label>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="sb6_2nd">
+                    <a href="@Model.DocumentManagementSystemApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Document Management System Application.png" />
+                            <label class="quickcolourclass">Document Management System Application</label>
+                        </div>
+                    </a>
+
+                    <a href="@Model.DocumentManagementSystemApplicationforCRM">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Document Management System Application (for CRM).png" />
+                            <label class="quickcolourclass">Document Management System Application (for CRM)</label>
+                        </div>
+                    </a>
+                    <a href="@Model.IdeaSpaceApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Idea Space Application.png" />
+                            <label class="quickcolourclass">Idea Space Application</label>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="sb6_2nd">
+                    <a href="@Model.ProjectClosureMaintenanceApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Project Closure & Maintenance Application.png" />
+                            <label class="quickcolourclass">Project Closure & Maintenance Application</label>
+                        </div>
+                    </a>
+
+                    <a href="@Model.QualitySafetyTechnologyHomePage">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Quality Safety & Technology.png" />
+                            <label class="quickcolourclass">Quality Safety & Technology Home Page</label>
+                        </div>
+                    </a>
+                    <a href="@Model.SafetyReportingApplication">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Safety Reporting Application.png" />
+                            <label class="quickcolourclass">Safety Reporting Application</label>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="sb6_2nd">
+                    <a href="@Model.Payslips">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Payslips.png" />
+                            <label class="quickcolourclass">Payslips</label>
+                        </div>
+                    </a>
+                    <a href="@Model.DepartmentPolicies">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Department Policies.png" />
+                            <label class="quickcolourclass">Department Policies</label>
+                        </div>
+                    </a>
+                    <a href="@Model.PITHelpDesk">
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/P&IT Helpdesk.png" />
+                            <label class="quickcolourclass">P&IT Help Desk</label>
+                        </div>
+                    </a>
+                </div>
+                <div class="sb6_2nd" style="align-content:start">
+                    <a href="@Model.investment"  >
+                        <div class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Declaration.png" />
+                            <label class="quickcolourclass">Investment Declaration(Plan)</label>
+                        </div>
+                    </a>
+                    <a href="@Model.investmentActual" >
+                        <div  class="sb6_2nd_item">
+                            <img src="~/images/icon/quicklink/Investment.png" />
+                            <label class="quickcolourclass">Investment Declaration(Actual)</label>
+                        </div>
+                    </a>
+                  
+                </div>
+               
+            </div>
+
+
+            <div style="background-color: white;" class="block2_right_container block2_right_container_mob">
+                <div class="block2_right">
+                    <div class="block2_right_icon"></div>
+                    <text>Birthday And Anniversary</text>
+                </div>
+                <div id="Birthday_aniversary">
+                    @if (Model.Birthday != null)
+                    {
+                        foreach (var item in Model.Birthday)
+                        {
+                            string[] birthday = new string[4];
+                            birthday = item.ToString().Split(",");
+                            <div class="block2_right_inner_container set_block4_right_birthSec">
+                                <img class="block2_org_img set_img" src="/images/icon/avatar-icon.png" />
+                                <div>
+                                    <h5> <b>Today Birthday</b>  </h5>
+                                    @*     <!--  <h5>@(item == "" ? "" : item.ToString().Trim().Replace(".", ""))</h5>*@
+                                    <h5>@(birthday[1])</h5>
+                                    <h5>@(birthday[2])</h5>
+                                    <h5>@(birthday[3])</h5>
+                                    <h5><a href="mailto:">@(birthday[4])</a></h5>
+                                </div>
+                            </div>
+                        }
+
+                    }
+                    @if (Model.Anniversary != null)
+                    {
+                        foreach (var item in Model.Anniversary)
+                        {
+                            string[] veterans = new string[5];
+                            veterans = item.ToString().Split(",");
+                            <div class="block2_right_inner_container set_block4_right_birthSec">
+                                <img class="block2_org_img set_img" src="/images/icon/avatar-icon.png" />
+                                <div>
+                                    <h5><b> Today Anniversary </b> </h5>
+                            @* <h5>@(string.IsNullOrEmpty(item.Key) ? "" : item.Key.ToString().Trim().Replace(".", ""))</h5> 
+                               <h5>@(string.IsNullOrEmpty(item.Value) ? "" : item.Value + " " + "Years") </h5>*@
+                                    <h5>@(veterans[0])</h5>
+                                    <h5>@(veterans[1]) Years</h5>
+                                    <h5>@(veterans[2])</h5>
+                                    <h5>@(veterans[3])</h5>
+                                    <h5><a href="mailto:">@(veterans[4])</a></h5>
+
+                                </div>
+                            </div>
+                        }
+                    }
+
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+</section>
+<script>
+    let toggle = false;
+    const elem = document.getElementById('hambergericon');
+    const item = document.getElementById('about');
+    elem.addEventListener('click', () => {
+        if (!toggle) {
+            item.classList.remove('remove')
+            toggle = !toggle;
+        } else {
+            item.classList.add('remove')
+            toggle = !toggle;
+        }
+    })
+
+    const mob_menu_icon = document.getElementById('mob_hamberger_icon')
+    const mob_menubar_close = document.getElementById('mob_menubar_close')
+    const mob_menubar_item = document.getElementById('mob_menubar_item')
+
+    mob_menu_icon.addEventListener('click', () => {
+
+        mob_menubar_item.classList.remove('remove')
+
+        mob_menu_icon.classList.add('remove')
+
+    })
+
+    mob_menubar_close.addEventListener('click', () => {
+
+        mob_menubar_item.classList.add('remove')
+
+        mob_menu_icon.classList.remove('remove')
+
+    })
+
+    let slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        let dots = document.getElementsByClassName("dot");
+        if (n > slides.length) { slideIndex = 1 }
+        if (n < 1) { slideIndex = slides.length }
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        // dots[slideIndex - 1].className += " active";
+    }
+</script>
+

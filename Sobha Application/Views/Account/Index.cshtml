@@ -1,0 +1,65 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link href="~/css/login.css" rel="stylesheet" />
+<title>login page</title>
+
+<body>
+    <section>
+        
+        <div id="left">
+            <div class="rinnerDiv">
+                <img id="logo" src="~/Images/Login/my-sobha-logo-black.svg" /><br /><br />
+                
+                <label id="sgn">Sign In</label>
+                
+               <div class="form-group">
+                 <label for="email">Email</label>
+                 <i class="fas fa-user user-icon"></i>
+                <input type="email" id="email" placeholder="Your email Address" required>
+               </div>
+               <div class="form-group">
+                <label for="password">Password</label>
+                <i class="fas fa-lock lock-icon"></i>
+                <input type="password" id="password" placeholder="Enter your password" required>
+               </div>
+                @* <label>Remember Password?</label><br /> *@
+
+                <a style="color:#ffe090; text-decoration:none;" class="btn-primary" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn"> <button>SIGN IN</button></a>
+                <a style="color:rgb(42, 41, 41); text-decoration:none;" class="forgot" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn"><label> Forgot Password?</label><br /></a>
+            
+            </div>
+            @* <div id="hr"></div> *@
+            @* <div class="rinnerDiv2">
+                <label>
+                    SOBHA EPITOMISES PASSION AT WORK IN TOTALITY
+                </label><br />
+                <label>Mr. P.N.C Menon, Founder,SOBHA Ltd.</label><br /><br />
+                <label class="titles">Vision</label><br />
+                <label>To Transform the way people percieve Quality</label><br /><br />
+                <label class="titles">Mission</label><br />
+                <label>No Shortcut to Quality</label><br /><br />
+                <label class="titles">Philosophy</label><br />
+                <label>Passion at work</label><br /><br />
+            </div> *@
+        </div>
+        <div class="right">
+         <div class="slide">
+            @* <img src="~/images/login/Login image.png"/> *@
+         </div>
+        
+         @* <div class="slide">
+            <img src="~/images/login/Sobha.jpg"/>
+         </div> *@
+        </div>
+        @* <div class="slide">
+            <img src="03.jpg" alt="img"/>
+        </div>
+        <div class="slide">
+            <img src="04.jpg" alt="img"/>
+        </div> *@
+    </div>
+        </div>
+        @* <div class="right">
+            <img id="heroimg" src="~/images/login/Login image.png" />
+        </div> *@
+    </section>
+</body>
