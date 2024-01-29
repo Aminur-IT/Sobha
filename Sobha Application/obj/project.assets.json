@@ -5009,19 +5009,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aminur\\.nuget\\packages\\": {}
+    "C:\\Users\\Praneetha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
+      "projectUniqueName": "C:\\Users\\Praneetha\\Desktop\\Sobha\\Sobha Application\\Sobha Application.csproj",
       "projectName": "Sobha Application",
-      "projectPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
-      "packagesPath": "C:\\Users\\aminur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\",
+      "projectPath": "C:\\Users\\Praneetha\\Desktop\\Sobha\\Sobha Application\\Sobha Application.csproj",
+      "packagesPath": "C:\\Users\\Praneetha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Praneetha\\Desktop\\Sobha\\Sobha Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aminur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Praneetha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5089,24 +5089,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.26, 6.0.26]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5115,7 +5097,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,7 +17,7 @@ section {
 
 .slide {
     width: 120vw;
-    height:650px !important;
+    height:100% !important;
 }
 
 #left {
@@ -144,7 +144,7 @@ a.btn-primary {
 }
 .slide {
     width: 65vw;
-    height: 620px;
+    height: 100%;
     background-image: url("../Images/Login/MicrosoftTeams-image.png");
     background-size: 100% 100%;
     animation: ChangeImage 2s linear infinite;
@@ -262,7 +262,7 @@ a.btn-primary {
 */
 .slide {
     width: 65vw;
-    height: 620px;
+    height: 100%;
     background-image: url("../Images/Login/MicrosoftTeams-image.png");
     background-size: 100% 100%;
     box-shadow: rgba(149,157,165,0.2) 0px 8px 24px;
@@ -282,6 +282,33 @@ a.btn-primary {
 
     }
    
+}
+#text{
+    z-index: 1;
+    Width: 100%;
+    Height: 10%;
+    color: #fff;
+    position: absolute;
+    bottom: 60px;
+    left: 40vw;
+}
+#text1{
+    z-index: 1;
+    Width: 100%;
+    Height: 10%;
+    color: #fff;
+    position: absolute;
+    bottom: 20px;
+    left: 40vw;
+}
+#text2{
+    z-index: 1;
+    Width: 100%;
+    Height: 10%;
+    color: #fff;
+    position: absolute;
+    bottom: 2px;
+    left: 40vw;
 }
 
     
