@@ -9,9 +9,23 @@
     margin-bottom: 4%;
     padding: 2%;
 }
+.rinnerDiv1 {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    /* margin-top: 15vh; */
+    margin-bottom: 4%;
+    padding: 2%;
+    padding-left: 15%;
+}
+
+
 #logo {
     width: 60%;
     margin-bottom: 6vh;
+    align-items: left;
 }
 
 a.btn-primary {
@@ -21,11 +35,16 @@ a.btn-primary {
     width: 100%;
     /* Height: 7vh; */
     padding: 9px;
-    border-radius: 6px;
+    border-radius: 9px;
     font-family: 'Inter', sans-serif;
     border: none;
     color: black;
     background-color: #ffe090;
+}
+#button1{
+    border-radius: 15px;
+    width: 80%;
+    
 }
 .slide {
     width: 120vw;
@@ -67,9 +86,9 @@ a.btn-primary {
     Height: 10%;
     color: #fff;
     position: absolute;
-    bottom: 60px;
-    padding-left: 2%;
-    font-family: 'Inter', sans-serif;
+    bottom: 80px;
+    padding-left: 3%;
+    font-family: 'Arial', sans-serif;
     margin-right: 2%;
 }
 #text1{
@@ -78,8 +97,8 @@ a.btn-primary {
     Height: 10%;
     color: #fff;
     position: absolute;
-    bottom: 10px;
-    padding-left: 2%;
+    bottom: 30px;
+    padding-left: 3%;
     font-family: 'Inter', sans-serif;
 }
 #text2{
@@ -88,8 +107,8 @@ a.btn-primary {
     Height: 10%;
     color: #fff;
     position: absolute;
-    bottom: 2px;
-    padding-left: 2%;
+    bottom: 0px;
+    padding-left: 3%;
     font-family: 'Inter', sans-serif;
 }
 
