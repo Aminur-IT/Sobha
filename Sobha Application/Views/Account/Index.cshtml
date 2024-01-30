@@ -1,67 +1,30 @@
-﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-<link href="~/css/login.css" rel="stylesheet" />
-<title>login page</title>
-
-<body>
-    <section>
-        
-        <div id="left">
-            <div class="rinnerDiv">
-                <img id="logo" src="~/Images/Login/my-sobha-logo-black.svg" /><br /><br />
-                
-                <label id="sgn">Sign In</label>
-                
-               <div class="form-group">
-                 <label for="email">Email</label>
-                 <i class="fas fa-user user-icon"></i>
-                <input type="email" id="email" placeholder="Your email Address" required>
-               </div>
-               <div class="form-group">
-                <label for="password">Password</label>
-                <i class="fas fa-lock lock-icon"></i>
-                <input type="password" id="password" placeholder="Enter your password" required>
-               </div>
-                @* <label>Remember Password?</label><br /> *@
-
-                <a style="color:#ffe090; text-decoration:none;" class="btn-primary" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn"> <button>SIGN IN</button></a>
-                <a style="color:rgb(42, 41, 41); text-decoration:none;" class="forgot" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn"><label> Forgot Password?</label><br /></a>
-            
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="~/css/login.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container-fluid min-vh-100" style="background-color:black;">
+	<div class="row">
+	<div class="col-md-4 col-sm-12" style="background-color: black;">
+	    <div class="rinnerDiv">
+                <img id="logo" src="~/Images/Login/my-sobha-logo-black.svg" />
+                <a style="background-color:#ffe090;width: 50%; text-decoration:none;" class="btn btn-dark" asp-area="MicrosoftIdentity" asp-controller="Account" asp-action="SignIn"> <button><b>SIGN IN</b></button></a>
             </div>
-            @* <div id="hr"></div> *@
-            @* <div class="rinnerDiv2">
-                <label>
-                    SOBHA EPITOMISES PASSION AT WORK IN TOTALITY
-                </label><br />
-                <label>Mr. P.N.C Menon, Founder,SOBHA Ltd.</label><br /><br />
-                <label class="titles">Vision</label><br />
-                <label>To Transform the way people percieve Quality</label><br /><br />
-                <label class="titles">Mission</label><br />
-                <label>No Shortcut to Quality</label><br /><br />
-                <label class="titles">Philosophy</label><br />
-                <label>Passion at work</label><br /><br />
-            </div> *@
-        </div>
-        <div class="right">
-         <div class="slide">
-            @* <img src="~/images/login/Login image.png"/> *@
+	</div>
+	<div class="col-md-8 col-sm-12 min-vh-100" >
+	    <div class="slide">
             <h2 id="text">Thought of the Day</h2>
-            <p id="text1">Humility is the solid foundation of all virtues</p>
-            <h3 id="text2">-confucius</h3>
+            <p class="text-wrap" id="text1"> Humility is the solid foundation of all virtues</p>
+            <h4 id="text2">-confucius</h4>
          </div>
-         
-        
-         @* <div class="slide">
-            <img src="~/images/login/Sobha.jpg"/>
-         </div> *@
-        </div>
-        @* <div class="slide">
-            <img src="03.jpg" alt="img"/>
-        </div>
-        <div class="slide">
-            <img src="04.jpg" alt="img"/>
-        </div> *@
+	</div>
+	</div>
     </div>
-        </div>
-        
-    </section>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  </body>
+</html>
