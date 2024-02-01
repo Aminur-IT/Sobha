@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sobha Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb5829227bf7bb637e14f00eb66050d4d4ff5ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sobha Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sobha Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

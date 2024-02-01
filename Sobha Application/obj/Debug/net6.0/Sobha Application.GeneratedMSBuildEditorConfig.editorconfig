@@ -9,75 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sobha_Application
 build_property.RootNamespace = Sobha_Application
-build_property.ProjectDir = C:\Users\aminur\Downloads\Sobha_Webapp-main\Sobha_Webapp-main\Sobha Application\
+build_property.ProjectDir = c:\Users\aminur\Downloads\Sobha_Webapp-main\Sobha\Sobha Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\aminur\Downloads\Sobha_Webapp-main\Sobha_Webapp-main\Sobha Application
+build_property.MSBuildProjectDirectory = c:\Users\aminur\Downloads\Sobha_Webapp-main\Sobha\Sobha Application
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Account/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Account/SignedOut.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Account/SignedOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduZWRPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/BirthdayAnniversary/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/BirthdayAnniversary/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhkYXlBbm5pdmVyc2FyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/ForYou/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/ForYou/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yWW91XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/HomePage/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/HomePage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/HomePage/Privacy.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/HomePage/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/OrgUpdate/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/OrgUpdate/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JnVXBkYXRlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/ProjectShowCase/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/ProjectShowCase/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFNob3dDYXNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Shared/Error.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Shared/_MenuSection.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Shared/_MenuSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51U2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/SpotLight/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/SpotLight/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvdExpZ2h0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/YourSobha/Index.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/YourSobha/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91clNvYmhhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/_ViewImports.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/_ViewStart.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha_Webapp-main/Sobha Application/Views/Shared/_Layout.cshtml]
+[c:/Users/aminur/Downloads/Sobha_Webapp-main/Sobha/Sobha Application/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-herz4w6hve

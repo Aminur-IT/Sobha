@@ -5014,11 +5014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
+      "projectUniqueName": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj",
       "projectName": "Sobha Application",
-      "projectPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
+      "projectPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj",
       "packagesPath": "C:\\Users\\aminur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\",
+      "outputPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aminur\\AppData\\Roaming\\NuGet\\NuGet.Config"

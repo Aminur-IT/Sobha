@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ci+7oF8W5esh/n/CySgvkVBW9VRI97vBKUVAqQ+keBs=",
+  "Hash": "0jHkBLucWSZqz7hcacTKDYcwdJfIVv0nMCeFbeNvNJw=",
   "Source": "Sobha Application",
   "BasePath": "_content/Sobha Application",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Sobha Application\\wwwroot",
       "Source": "Sobha Application",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Sobha Application.styles.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Sobha Application.styles.css",
       "SourceId": "Sobha Application",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Sobha Application.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Sobha Application.styles.css"
+      "OriginalItemSpec": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Sobha Application.styles.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sobha Application.bundle.scp.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sobha Application.bundle.scp.css",
       "SourceId": "Sobha Application",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Sobha Application.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sobha Application.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sobha Application.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\bdayanniversary.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\bdayanniversary.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/bdayanniversary.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bdayanniversary.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\foryou.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\foryou.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/foryou.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\foryou.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\landing.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\landing.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/landing.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\landing.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\login.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\login.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\org.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\org.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/org.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\org.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\proshowcase.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\proshowcase.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/proshowcase.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\proshowcase.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\site.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\spotlight.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\spotlight.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/spotlight.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\spotlight.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\css\\yoursobha.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\css\\yoursobha.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "css/yoursobha.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\yoursobha.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\favicon.ico",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Jason.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Jason.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/Jason.jpeg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\Jason.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Jennifer.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Jennifer.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/Jennifer.jpeg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\Jennifer.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\John.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\John.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/John.jpeg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\John.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Monica.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Monica.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/Monica.jpeg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\Monica.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Niki.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Niki.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/Niki.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\Niki.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Tom.jpeg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\BirthdayAnniversary\\Tom.jpeg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/BirthdayAnniversary/Tom.jpeg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BirthdayAnniversary\\Tom.jpeg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Common\\favicon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Common\\favicon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Common/favicon.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Common\\favicon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 1.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 1.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Heading/Heading 1.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Heading\\Heading 1.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 2.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 2.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Heading/Heading 2.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Heading\\Heading 2.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 3.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Heading\\Heading 3.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Heading/Heading 3.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Heading\\Heading 3.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\Apps_icon-removebg-preview.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\Apps_icon-removebg-preview.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/Apps_icon-removebg-preview.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\Apps_icon-removebg-preview.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\avatar-icon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\avatar-icon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/avatar-icon.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\avatar-icon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\avtar-icon2.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\avtar-icon2.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/avtar-icon2.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\avtar-icon2.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\Home_icon-removebg-preview.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\Home_icon-removebg-preview.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/Home_icon-removebg-preview.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\Home_icon-removebg-preview.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\istockphoto-1370453603-612x612-removebg-preview (1).png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\istockphoto-1370453603-612x612-removebg-preview (1).png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/istockphoto-1370453603-612x612-removebg-preview (1).png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\istockphoto-1370453603-612x612-removebg-preview (1).png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\Mail icon 2.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\Mail icon 2.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/Mail icon 2.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\Mail icon 2.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\Mail icon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\Mail icon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/Mail icon.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\Mail icon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\Profile-removebg-preview (1).png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\Profile-removebg-preview (1).png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/Profile-removebg-preview (1).png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\Profile-removebg-preview (1).png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Administration Help Desk.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Administration Help Desk.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Administration Help Desk.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Administration Help Desk.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Audit Management System.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Audit Management System.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Audit Management System.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Audit Management System.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Club House Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Club House Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Club House Application.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Club House Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Customer Care Cell Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Customer Care Cell Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Customer Care Cell Application.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Customer Care Cell Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Declaration.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Declaration.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Declaration.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Declaration.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Department Policies.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Department Policies.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Department Policies.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Department Policies.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application (for CRM).png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application (for CRM).png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Document Management System Application (for CRM).png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application (for CRM).png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Document Management System Application.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Document Management System Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\ESS.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\ESS.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/ESS.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\ESS.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Idea Space Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Idea Space Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Idea Space Application.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Idea Space Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Investment.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Investment.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Investment.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Investment.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\P&IT Helpdesk.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\P&IT Helpdesk.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/P&IT Helpdesk.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\P&IT Helpdesk.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Payslips.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Payslips.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Payslips.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Payslips.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Project Closure & Maintenance Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Project Closure & Maintenance Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Project Closure & Maintenance Application.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Project Closure & Maintenance Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Quality Safety & Technology.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Quality Safety & Technology.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Quality Safety & Technology.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Quality Safety & Technology.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Safety Reporting Application.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Safety Reporting Application.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Safety Reporting Application.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Safety Reporting Application.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Sobha Technology Manual.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\Sobha Technology Manual.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/Sobha Technology Manual.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\Sobha Technology Manual.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\World client.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Icon\\QuickLink\\World client.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Icon/QuickLink/World client.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Icon\\QuickLink\\World client.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\access.webp",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\access.webp",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/access.webp",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\access.webp"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Apps_icon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Apps_icon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/Apps_icon.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\Apps_icon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\avatar-icon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\avatar-icon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/avatar-icon.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\avatar-icon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\avatar1.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\avatar1.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/avatar1.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\avatar1.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\board1.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\board1.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/board1.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\board1.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\brief.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\brief.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/brief.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\brief.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\car.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\car.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/car.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\car.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\dark-blue-bg.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\dark-blue-bg.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/dark-blue-bg.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\dark-blue-bg.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\erp.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\erp.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/erp.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\erp.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Home_icon.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Home_icon.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/Home_icon.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\Home_icon.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\itsupport.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\itsupport.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/itsupport.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\itsupport.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\leave.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\leave.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/leave.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\leave.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\left_arrow.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\left_arrow.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/left_arrow.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\left_arrow.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\mail1.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\mail1.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/mail1.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\mail1.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\menuicon_white.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\menuicon_white.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/menuicon_white.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\menuicon_white.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\notify.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\notify.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/notify.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\notify.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org1.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org1.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/org1.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\org1.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org2.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org2.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/org2.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\org2.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org3.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org3.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/org3.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\org3.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org4.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\org4.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/org4.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\org4.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\organization.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\organization.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/organization.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\organization.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Profile.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\Profile.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/Profile.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\Profile.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\right_arrow.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\right_arrow.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/right_arrow.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\right_arrow.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\search.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\search.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/search.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\search.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\shobha3.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\shobha3.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/shobha3.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\shobha3.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\sobha_logo.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\sobha_logo.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/sobha_logo.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\sobha_logo.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\sobha_logo1.svg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\sobha_logo1.svg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/sobha_logo1.svg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\sobha_logo1.svg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\up_arraow.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\up_arraow.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/up_arraow.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\up_arraow.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Landing_Page\\voice.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Landing_Page\\voice.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Landing_Page/voice.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Landing_Page\\voice.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login_Page\\Loginpagebackground.PNG",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login_Page\\Loginpagebackground.PNG",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login_Page/Loginpagebackground.PNG",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login_Page\\Loginpagebackground.PNG"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login_Page\\Sobha Logo.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login_Page\\Sobha Logo.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login_Page/Sobha Logo.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login_Page\\Sobha Logo.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login_Page\\thumbnail_Graphic Side-dbheader.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login_Page\\thumbnail_Graphic Side-dbheader.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login_Page/thumbnail_Graphic Side-dbheader.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login_Page\\thumbnail_Graphic Side-dbheader.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login_Page\\Your SOBHA_Intranet.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login_Page\\Your SOBHA_Intranet.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login_Page/Your SOBHA_Intranet.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login_Page\\Your SOBHA_Intranet.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login\\Login image.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login\\Login image.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login/Login image.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login\\Login image.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login\\Login logo.svg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login\\Login logo.svg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login/Login logo.svg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login\\Login logo.svg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login\\MicrosoftTeams-image.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login\\MicrosoftTeams-image.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login/MicrosoftTeams-image.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login\\MicrosoftTeams-image.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login\\my-sobha-logo-black.svg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login\\my-sobha-logo-black.svg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login/my-sobha-logo-black.svg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login\\my-sobha-logo-black.svg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Login\\Sobha.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Login\\Sobha.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Login/Sobha.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Login\\Sobha.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Org_Update\\ORG update 1.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Org_Update\\ORG update 1.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Org_Update/ORG update 1.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Org_Update\\ORG update 1.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Org_Update\\ORG update 2.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Org_Update\\ORG update 2.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Org_Update/ORG update 2.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Org_Update\\ORG update 2.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Project_Showcase/showcase.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Project_Showcase\\showcase.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase1.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase1.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Project_Showcase/showcase1.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Project_Showcase\\showcase1.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase2.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Project_Showcase\\showcase2.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Project_Showcase/showcase2.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Project_Showcase\\showcase2.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\SOBHA-Logo-Digital-sm.svg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\SOBHA-Logo-Digital-sm.svg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Your_Sobha/SOBHA-Logo-Digital-sm.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Your_Sobha\\SOBHA-Logo-Digital-sm.svg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Sobha.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Sobha.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Your_Sobha/Sobha.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Your_Sobha\\Sobha.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Your sobha 2.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Your sobha 2.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Your_Sobha/Your sobha 2.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Your_Sobha\\Your sobha 2.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Your sobha 3.jpg",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Images\\Your_Sobha\\Your sobha 3.jpg",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Images/Your_Sobha/Your sobha 3.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Your_Sobha\\Your sobha 3.jpg"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\js\\common.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\js\\common.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "js/common.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\js\\common.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\js\\sideToggleExtended.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\js\\sideToggleExtended.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "js/sideToggleExtended.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sideToggleExtended.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\js\\site.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\js\\site.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons.zip",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons.zip",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons.zip",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons.zip"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Download 24x24.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Download 24x24.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Download 24x24.png",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Download 24x24.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Hamburger Menu.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Hamburger Menu.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Hamburger Menu.png",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Hamburger Menu.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Home Button.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Home Button.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Home Button.png",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Home Button.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Logout.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Logout.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Logout.png",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Logout.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Org Update.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Org Update.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Org Update.png",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Org Update.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture1.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture1.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture1.png",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture1.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture10.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture10.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture10.png",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture10.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture11.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture11.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture11.png",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture11.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture2.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture2.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture2.png",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture2.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture3.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture3.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture3.png",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture3.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture4.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture4.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture4.png",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture4.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture5.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture5.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture5.png",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture5.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture6.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture6.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture6.png",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture6.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture7.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture7.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture7.png",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture7.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture8.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture8.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture8.png",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture8.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Picture9.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Picture9.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Picture9.png",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Picture9.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Spotlight.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Spotlight.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Spotlight.png",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Spotlight.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\Navigation Icons\\Your Sobha.png",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\Navigation Icons\\Your Sobha.png",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "Navigation Icons/Your Sobha.png",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\Navigation Icons\\Your Sobha.png"
     },
     {
-      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\video\\YourSobha Hero Visual.mp4",
+      "Identity": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\video\\YourSobha Hero Visual.mp4",
       "SourceId": "Sobha Application",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\wwwroot\\",
       "BasePath": "_content/Sobha Application",
       "RelativePath": "video/YourSobha Hero Visual.mp4",
       "AssetKind": "All",

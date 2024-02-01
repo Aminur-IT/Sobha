@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj": {}
+    "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj": {
+    "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
+        "projectUniqueName": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj",
         "projectName": "Sobha Application",
-        "projectPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\Sobha Application.csproj",
+        "projectPath": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\Sobha Application.csproj",
         "packagesPath": "C:\\Users\\aminur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha_Webapp-main\\Sobha Application\\obj\\",
+        "outputPath": "c:\\Users\\aminur\\Downloads\\Sobha_Webapp-main\\Sobha\\Sobha Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aminur\\AppData\\Roaming\\NuGet\\NuGet.Config"
